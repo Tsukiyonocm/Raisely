@@ -26,12 +26,12 @@ div.container {
     box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     margin-top: 1em;
-    text-transform: capitalize;
 }
 
 .answers-content h2 {
     text-align: center;
     font-weight: bold;
+    text-transform: capitalize;
 }
 
 .answersText {
